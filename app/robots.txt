@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+sitemap: https://cewekcantikcolmek.pages.dev/sitemap.xml
